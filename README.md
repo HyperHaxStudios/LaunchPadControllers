@@ -6,7 +6,7 @@ These Custom modes are made for Novation Launchpad Mini MK 3. These controls als
 
 Releases are [here](https://github.com/HyperHaxStudios/LaunchPadControllers/releases)
 
-#Installation
+# Installation
 1. Go to [Novation Components.](https://components.novationmusic.com)
 2. Sign in.
 3. Click on "Upload Custom Mode."
